@@ -8,3 +8,4 @@ test subrepo new
 test subtree
 
 1
+2
